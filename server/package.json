@@ -17,7 +17,7 @@
 	"devDependencies": {
 		"@types/better-sqlite3": "^5.4.0",
 		"@types/semver": "^7.1.0",
-		"electron-rebuild": "^2.3.5"
+		"electron-rebuild": "^3.2.9"
 	},
 	"scripts": {
 		"postinstall": "electron-rebuild --version 11.4.1"
